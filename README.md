@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Tanveer Ahmed 👋
 
-<!--
-**tanveerbuilds/tanveerbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance developer focused on **AI chatbot development**, **n8n workflow automation**, and **lead capture systems for small businesses**.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AI chatbots** for websites and WhatsApp that answer questions in real time and capture qualified leads
+- **n8n workflow automations** that connect apps, sync data to Google Sheets/CRMs, and handle follow-ups, lead routing, and scheduled jobs
+- **Lead generation systems** that make sure no enquiry slips through the cracks
+
+## Tech I work with
+
+Python · JavaScript · n8n · OpenAI · Google Sheets · WhatsApp API
+
+## About the repos here
+
+The repositories on this profile are **sample / demo builds** I created to demonstrate approaches and patterns — not client work. They're starting points you can explore, adapt, and learn from.
+
+📍 United States
